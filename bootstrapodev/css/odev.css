@@ -1,0 +1,30 @@
+/* ödev */
+
+.text-type {
+    font-family: 'Beau Rivage', cursive;
+    color: rgb(107, 105, 103)
+}
+
+.ortala { 
+    margin:0 auto;
+    text-align:center; 
+}
+
+.soltarafa { 
+    margin:0 auto;
+    text-align:right; 
+}
+.text-color {
+    color: rgb(107, 105, 103);
+}
+
+.fs-30 {
+   font-size: 30px;
+}
+.fs-20 {
+    font-size: 20px;
+ }
+.fs-25 {
+    font-size: 25px;
+ }
+ 
